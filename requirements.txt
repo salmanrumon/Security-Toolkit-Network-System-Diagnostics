@@ -1,0 +1,4 @@
+# Security Toolkit - Python dependencies
+# Most functionality uses Python standard library only.
+# Optional: pywin32 for enhanced Windows Event Log access
+# pip install pywin32
